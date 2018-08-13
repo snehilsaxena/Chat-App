@@ -23,7 +23,7 @@ public class Client extends JFrame implements Runnable{
     private JScrollPane myUserHistory=new JScrollPane(UserText,JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED,
             JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
     private JButton Send = new JButton("Send");
-    /* by vip */
+
       private JLabel lblByjainvipray= new JLabel("                                                                                                By-JainVipRay & SnehilSaxena");
       private JLabel S_his;
       private JLabel box;
